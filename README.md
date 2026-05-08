@@ -31,3 +31,6 @@ console.log(fruits);
 </nav>
 
 ```
+
+![Knage - sky](/img/Screenshot%202026-05-07%20at%2019.43.50.png "Knage - sky")
+
