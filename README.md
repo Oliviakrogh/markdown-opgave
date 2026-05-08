@@ -40,3 +40,5 @@ console.log(fruits);
 > Forrest Gump 
 >
 >>"Life if like a box of choclate"
+
+[link til kilde](https://www.southernliving.com/travel/forrest-gump-quotes)
