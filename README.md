@@ -5,7 +5,7 @@
 *  Letlæseligt, også uden formatering
 *  Gør det nemt at organisere indhold
 
-## Kodeeksempel på javascript array forloop:
+## Kodeeksempel på javascript array forEach:
 
 ```
  
@@ -14,5 +14,17 @@ const fruits =
 
 fruits.forEach(fruits)
 console.log(fruits);
+
+```
+
+## kodeeksempel på html med navigation 
+
+```
+<nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/python/">Python</a>
+</nav>
 
 ```
