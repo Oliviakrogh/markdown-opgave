@@ -21,10 +21,13 @@ console.log(fruits);
 
 ```
 <nav>
-  <a href="/html/">HTML</a> |
-  <a href="/css/">CSS</a> |
-  <a href="/js/">JavaScript</a> |
-  <a href="/python/">Python</a>
+
+    <a href="https://mitwebsite.dk">Forside</a>
+    <a href="https://mitwebsite.dk/shop">Shop</a>
+     <a href="https://mitwebsite.dk/om-os">Om os</a>
+    <a href="https://mitwebsite.dk/kontakt">Kontakt</a>
+     <a href="https://mitwebsite.dk/blog">Blog</a>
+
 </nav>
 
 ```
