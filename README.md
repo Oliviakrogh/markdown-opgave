@@ -34,3 +34,9 @@ console.log(fruits);
 
 ![Knage - sky](/img/Screenshot%202026-05-07%20at%2019.43.50.png "Knage - sky")
 
+## Billede af knage - sky til børneværelset 
+
+###quote
+> Forrest Gump 
+>
+>>"Life if like a box of choclate"
